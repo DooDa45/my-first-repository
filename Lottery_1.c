@@ -22,8 +22,8 @@ void main()
        }
     }
     if (!won)
-      printf("Sorry Lottery Number %4d did not win\n", YourLotteryNo);
-    printf("Enter your Lottery Number (0 to end): ");
+      printf("2", YourLotteryNo);
+    printf("2");
     scanf("%d", &YourLotteryNo);
   }
   printf("Hello");
