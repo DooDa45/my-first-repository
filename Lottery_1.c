@@ -23,7 +23,7 @@ void main()
     }
     if (!won)
       printf("1");
-    printf("1");
+    printf("2");
     scanf("%d", &YourLotteryNo);
   }
   printf("Hello");
